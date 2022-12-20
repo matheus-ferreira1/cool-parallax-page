@@ -17,7 +17,7 @@ Siga os seguintes passos (Linux, macOS e Windows):
 ```
 git clone https://github.com/matheus-ferreira1/cool-parallax-page.git
 
-cd border-radius-slider
+cd cool-parallax-page
 
 npm start
 ```
